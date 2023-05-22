@@ -1,8 +1,6 @@
 ###
 # Regressions for fossilBERT bachelor thesis
-# author: Lucas Hemmi
-# email: lucas.hemmi@student.unisg.ch
-###
+
 
 
 
